@@ -2,9 +2,9 @@
 基于 Cloudflare的worker + 微信插件ClawBot 的邮件转发bot
 
 # 原理原理
-1.把常用的邮箱收到的信件转发到cf的域名邮箱
-2.通过cf的邮件路由worker把收到的邮件通过api发到本项目的worker上
-3.由本项目worker对邮件进行解析并通过微信插件ClawBot发送到微信实现提醒
+1. 把常用的邮箱收到的信件转发到cf的域名邮箱
+2. 通过cf的邮件路由worker把收到的邮件通过api发到本项目的worker上
+3. 由本项目worker对邮件进行解析并通过微信插件ClawBot发送到微信实现提醒
 
 # 使用教程
 1. 首次使用或者token时效时使用`npm run login`登录

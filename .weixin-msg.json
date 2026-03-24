@@ -1,0 +1,26 @@
+{
+  "seq": 6,
+  "message_id": 7442123279599292000,
+  "from_user_id": "o9cq80wNWnevmvs3ke8mR42uvlQE@im.wechat",
+  "to_user_id": "f0297a363067@im.bot",
+  "client_id": "mmassistant_bypmsg_inbox_12934a1bc7143bd70be2333f13eb9030mmo9cq808iRsIApNOcBxlZFDB-RroQ@weclaw11496087_1774340456",
+  "create_time_ms": 1774340457785,
+  "update_time_ms": 1774340457868,
+  "delete_time_ms": 0,
+  "session_id": "",
+  "group_id": "",
+  "message_type": 1,
+  "message_state": 2,
+  "item_list": [
+    {
+      "type": 1,
+      "create_time_ms": 1774340457785,
+      "update_time_ms": 1774340457785,
+      "is_completed": true,
+      "text_item": {
+        "text": "1"
+      }
+    }
+  ],
+  "context_token": "AARzJWAFAAABAAAAAAAJmtwDrd+SsmtwaUnCaSAAAAB+9905Q6UiugPBawU3n3cyzQX+LkN8ofRzsCZYN0mt7ot+nYqVhej+U4kZZ8HRI8sef278ot/qaUEKsgv2qi+CQe2OzwRe"
+}
